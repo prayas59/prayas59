@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" " />
+  <img src="./banner.png" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center">Prayas Godara</h1>
@@ -12,7 +12,7 @@
   <i>Building scalable systems & solving real-world problems 🚀</i>
 </p>
 
----
+<br/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Engineer;.NET+Developer;Always+learning+new+things" />
@@ -20,10 +20,34 @@
 
 ---
 
+## 🧠 About Me
+
+I’m a Full Stack Developer focused on building scalable, real-world applications.
+Currently working at TCS, gaining hands-on experience with Angular, .NET, and enterprise systems.
+
+I enjoy solving practical problems — from API design to performance optimization and user experience.
+
+💡 What I bring:
+
+* MERN stack & modern web technologies
+* Strong system design, APIs & database knowledge
+* Experience working in production environments
+* Clean, efficient, maintainable code mindset
+
+🚀 Currently:
+
+* Building a real-time chat application (Next.js + WebRTC)
+* Exploring system design & scalable architectures
+
+⚡ Goal:
+To build impactful, scalable products that solve real problems.
+
+---
+
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,ts,js,docker,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,mongodb,ts,js,dotnet,azure,docker,tailwind" />
 </p>
 
 ---
@@ -33,11 +57,11 @@
 ### 💬 Chat App (WhatsApp Clone)
 
 * Real-time messaging, audio/video calls (WebRTC)
-* Next.js + MongoDB + Socket.io
+* Built with Next.js, MongoDB & Socket.io
 
 ### 💪 Fitness Booking Platform
 
-* Gym/Yoga booking + CRM
+* Gym/Yoga booking + CRM system
 * Multi-service scalable platform
 
 ---
@@ -69,5 +93,5 @@
 ---
 
 <p align="center">
-  <i>“Code. Build. Scale. Repeat.”</i>
+  <i>Code. Build. Scale. Repeat.</i>
 </p>
