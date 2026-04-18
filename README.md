@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="120%" style="margin-left:-10%;" />
+  <img src="./banner.png" width="100%" " />
 </p>
 
 <h1 align="center">Prayas Godara</h1>
