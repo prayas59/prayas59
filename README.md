@@ -47,7 +47,7 @@ To build impactful, scalable products that solve real problems.
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,mongodb,ts,js,dotnet,azure,docker,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,mongodb,ts,js,docker,tailwind" />
 </p>
 
 ---
