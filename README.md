@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="banner"/>
+  <img src="./banner.png" width="120%" style="margin-left:-10%;" />
 </p>
 
 <h1 align="center">Prayas Godara</h1>
@@ -23,7 +23,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,mongodb,ts,js,dotnet,azure,docker,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,ts,js,docker,tailwind" />
 </p>
 
 ---
