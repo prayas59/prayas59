@@ -22,25 +22,26 @@
 
 ## 🧠 About Me
 
-I’m a Full Stack Developer focused on building scalable, real-world applications.
-Currently working at TCS, gaining hands-on experience with Angular, .NET, and enterprise systems.
+I’m a Full Stack Developer focused on building practical and scalable web applications using the MERN stack.
 
-I enjoy solving practical problems — from API design to performance optimization and user experience.
+I enjoy turning ideas into real products — from designing backend APIs to creating smooth and responsive user interfaces.
 
-💡 What I bring:
+💡 What I work with:
 
-* MERN stack & modern web technologies
-* Strong system design, APIs & database knowledge
-* Experience working in production environments
-* Clean, efficient, maintainable code mindset
+* React.js, Next.js, Node.js, Express.js
+* MongoDB & basic SQL
+* REST APIs & full-stack development
 
 🚀 Currently:
 
 * Building a real-time chat application (Next.js + WebRTC)
-* Exploring system design & scalable architectures
+* Working on a fitness booking platform with CRM features
 
-⚡ Goal:
-To build impactful, scalable products that solve real problems.
+⚡ What drives me:
+I like solving real-world problems through code and continuously improving my development skills by building projects.
+
+🎯 Goal:
+To grow into a strong full-stack developer who can build scalable and impactful products.
 
 ---
 
